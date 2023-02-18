@@ -1,2 +1,4 @@
 # odin-recipes
-My first HTML basic websites
+My first HTML website about basic recipe website
+
+learning to use my basic HTML knowledge in practice
